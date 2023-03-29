@@ -22,7 +22,7 @@ public class App extends Application {
     static Linguaggio lang_it;
     static final String connectionURL = "jdbc:mysql://localhost:3306/620826";
     static final String user = "root";
-    static final String pass = "Cic@da3310";
+    static final String pass = "root";
     static int currentLang = 0;
     
     @Override
