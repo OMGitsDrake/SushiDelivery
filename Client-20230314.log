@@ -1,0 +1,39 @@
+2023-03-14 17:42:09.465 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to EN
+2023-03-14 17:45:55.312 [main] INFO  it.unipi.mainproject.sushideliveryservice.AppTest - OK
+2023-03-14 17:45:55.321 [main] INFO  it.unipi.mainproject.sushideliveryservice.LoginControllerTest - OK
+2023-03-14 20:10:08.503 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to EN
+2023-03-14 20:10:13.851 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to IT
+2023-03-14 20:10:18.389 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to EN
+2023-03-14 20:10:20.982 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to IT
+2023-03-14 20:11:46.890 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to EN
+2023-03-14 20:11:50.605 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to IT
+2023-03-14 20:11:53.427 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to EN
+2023-03-14 20:12:24.174 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to EN
+2023-03-14 20:12:28.439 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to IT
+2023-03-14 20:12:39.101 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-14 20:12:39.881 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-14 20:12:39.930 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-14 20:12:47.399 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - register
+2023-03-14 20:12:47.424 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.RegisterController - Language swap to EN
+2023-03-14 20:12:50.211 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - register
+2023-03-14 20:12:50.231 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.RegisterController - Language swap to EN
+2023-03-14 20:12:55.270 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - register
+2023-03-14 20:12:55.290 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.RegisterController - Language swap to EN
+2023-03-14 20:13:45.702 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - register
+2023-03-14 20:13:45.753 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.RegisterController - Language swap to EN
+2023-03-14 20:13:53.603 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - register
+2023-03-14 20:13:53.627 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.RegisterController - Language swap to EN
+2023-03-14 20:13:55.579 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to EN
+2023-03-14 20:13:56.300 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - register
+2023-03-14 20:13:56.319 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.RegisterController - Language swap to IT
+2023-03-14 20:13:58.330 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to IT
+2023-03-14 20:13:59.080 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - register
+2023-03-14 20:13:59.107 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.RegisterController - Language swap to EN
+2023-03-14 20:14:04.465 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-14 20:14:04.864 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-14 20:14:04.908 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-14 20:14:08.049 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - register
+2023-03-14 20:14:08.067 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.RegisterController - Language swap to EN
+2023-03-14 20:14:24.122 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to EN
+2023-03-14 20:14:25.823 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - register
+2023-03-14 20:14:25.841 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.RegisterController - Language swap to IT

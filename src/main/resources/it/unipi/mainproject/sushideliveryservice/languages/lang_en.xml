@@ -1,0 +1,56 @@
+<lang>
+    <!-- LOGIN -->
+    <LOGIN>Login</LOGIN>
+    <REGISTER>Register</REGISTER>
+    <BACK>Back</BACK>
+    <LANG>Language</LANG>
+    <IT>Italian</IT>
+    <EN>English</EN>
+    <SETTINGS>Settings</SETTINGS>
+    <INSTALL>Install Database</INSTALL>
+    <AUTHERR>Wrong credentials</AUTHERR>
+    <!-- MENU -->
+    <PRANZO>Lunch</PRANZO>
+    <CENA>Dinner</CENA>
+    <WELCOME>Welcome </WELCOME>
+    <PUNTI>Fidelity Points</PUNTI>
+    <!-- REGISTER -->
+    <RE_TITLE>Register</RE_TITLE>
+    <BDATE>Birth Date</BDATE>
+    <RE_PASSWORD>Repeat Password</RE_PASSWORD>
+    <!-- TABLE -->
+    <STARRED>Favourites</STARRED>
+    <CODE>Code</CODE>
+    <NAME>Name</NAME>
+    <INGREDIENTS>Ingredients</INGREDIENTS>
+    <PRICE>Price</PRICE>
+    <ORDER>Order</ORDER>
+    <CART_REMOVE>Remove</CART_REMOVE>
+    <CART_ADD>Add to Cart</CART_ADD>
+    <STARRED_REMOVE>Remove from Favourites</STARRED_REMOVE>
+    <MAKE_STARRED>Add to Favourites</MAKE_STARRED>
+    <MAX_STARRED>You already have 10 dishes in your favourites!</MAX_STARRED>
+    <!-- OREDR -->
+    <CART_TITLE>Cart</CART_TITLE>
+    <HOUR>Choose a time</HOUR>
+    <ADDR>Shipping address</ADDR>
+    <PHONE>Phone nr.</PHONE>
+    <SUBT>Subtotal:</SUBT>
+    <CARD>Credit Card</CARD>
+    <CASH>On Delivery</CASH>
+    <PAY_QUEST>How do you want to pay?</PAY_QUEST>
+    <CNUMBER>Card Number</CNUMBER>
+    <USR_PTS>Points Available</USR_PTS>
+    <INS_PTS>Insert points to use</INS_PTS>
+    <CNF_ORD>Confirm Order</CNF_ORD>
+    <TIME_OK>Time available</TIME_OK>
+    <TIME_BAD>Time not available</TIME_BAD>
+    <TIME_NO>Time is required</TIME_NO>
+    <FIELDS_NO>Fields are required</FIELDS_NO>
+    <DISCOUNT>Discount: </DISCOUNT>
+    <TOTAL>Total: </TOTAL>
+    <!-- CONCLUSION -->
+    <THANKS>Thank you </THANKS>
+    <EXIT>Exit</EXIT>
+    <CNC_MSG>Your order has been registered and will be shipped as soon as possible!</CNC_MSG>
+</lang>

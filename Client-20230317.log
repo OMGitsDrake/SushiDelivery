@@ -1,0 +1,993 @@
+2023-03-17 00:54:55.702 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 00:54:56.102 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 00:54:56.149 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 00:54:57.581 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelto pranzo
+2023-03-17 00:54:57.657 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 01:03:43.428 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 01:03:43.825 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 01:03:43.892 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 01:03:47.230 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelto pranzo
+2023-03-17 01:03:47.339 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 01:12:19.883 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 01:12:20.260 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 01:12:20.309 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 01:12:22.970 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelto pranzo
+2023-03-17 01:12:23.044 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 01:13:19.158 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Gyoza al vapore - 3 pezzi]
+2023-03-17 01:13:49.092 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Gyoza al vapore - 3 pezzi]
+Piatto [7|Gyoza alla piastra - 3 pezzi]
+2023-03-17 01:13:50.357 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Gyoza al vapore - 3 pezzi]
+Piatto [7|Gyoza alla piastra - 3 pezzi]
+Piatto [8|Gyoza di gamberi alla griglia - 3 pezzi]
+2023-03-17 01:13:51.401 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Gyoza al vapore - 3 pezzi]
+Piatto [7|Gyoza alla piastra - 3 pezzi]
+Piatto [8|Gyoza di gamberi alla griglia - 3 pezzi]
+Piatto [9|Gyoza di gamberi alla griglia - 3 pezzi]
+2023-03-17 01:14:10.081 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Gyoza al vapore - 3 pezzi]
+Piatto [7|Gyoza alla piastra - 3 pezzi]
+Piatto [8|Gyoza di gamberi alla griglia - 3 pezzi]
+2023-03-17 01:14:16.413 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Gyoza al vapore - 3 pezzi]
+Piatto [7|Gyoza alla piastra - 3 pezzi]
+Piatto [8|Gyoza di gamberi alla griglia - 3 pezzi]
+2023-03-17 01:14:21.107 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Gyoza al vapore - 3 pezzi]
+Piatto [7|Gyoza alla piastra - 3 pezzi]
+Piatto [8|Gyoza di gamberi alla griglia - 3 pezzi]
+2023-03-17 01:17:54.188 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 01:17:54.566 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 01:17:54.602 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 01:17:55.889 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelto pranzo
+2023-03-17 01:17:55.990 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 01:18:58.107 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [3|Involtini Primavera - 3 pezzi]
+2023-03-17 01:19:07.518 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [3|Involtini Primavera - 3 pezzi]
+Piatto [11|Tartare sake]
+2023-03-17 01:19:10.301 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [3|Involtini Primavera - 3 pezzi]
+Piatto [11|Tartare sake]
+Piatto [30|Tataki Salmone]
+2023-03-17 01:19:12.508 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [3|Involtini Primavera - 3 pezzi]
+Piatto [11|Tartare sake]
+Piatto [30|Tataki Salmone]
+Piatto [48|Uramaki Lover - 8 pezzi]
+2023-03-17 01:19:35.131 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [3|Involtini Primavera - 3 pezzi]
+Piatto [11|Tartare sake]
+Piatto [30|Tataki Salmone]
+2023-03-17 01:20:16.307 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 01:20:16.677 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 01:20:16.725 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 01:20:18.578 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelto pranzo
+2023-03-17 01:20:18.659 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 01:20:22.550 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+2023-03-17 01:20:24.072 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+2023-03-17 01:20:25.216 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [12|Sake Mandorle]
+2023-03-17 01:20:27.503 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [12|Sake Mandorle]
+Piatto [50|Gunkan spicy Sake]
+2023-03-17 01:20:38.034 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [12|Sake Mandorle]
+2023-03-17 01:20:48.356 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [12|Sake Mandorle]
+2023-03-17 01:23:56.184 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 01:23:56.581 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 01:23:56.641 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 01:23:57.902 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-17 01:23:57.981 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 01:24:11.219 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [26|Sushi Party Mix - 64 pezzi]
+2023-03-17 01:24:16.470 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [26|Sushi Party Mix - 64 pezzi]
+Piatto [27|Carpaccio Sake]
+2023-03-17 01:24:18.604 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [26|Sushi Party Mix - 64 pezzi]
+Piatto [27|Carpaccio Sake]
+Piatto [44|Uramaki Philadelphia - 8 pezzi]
+2023-03-17 01:24:21.510 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [26|Sushi Party Mix - 64 pezzi]
+Piatto [27|Carpaccio Sake]
+Piatto [44|Uramaki Philadelphia - 8 pezzi]
+Piatto [51|Ebi Kataifi - 2 pezzi]
+2023-03-17 01:24:23.977 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [26|Sushi Party Mix - 64 pezzi]
+Piatto [27|Carpaccio Sake]
+Piatto [51|Ebi Kataifi - 2 pezzi]
+2023-03-17 01:30:40.123 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 01:30:40.851 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 01:30:40.897 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 01:30:43.182 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-17 01:30:43.295 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 01:30:50.015 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [4|Involtini Ebi - 3 pezzi]
+2023-03-17 01:30:52.716 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [4|Involtini Ebi - 3 pezzi]
+Piatto [6|Tako seaweed]
+2023-03-17 01:30:55.675 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [4|Involtini Ebi - 3 pezzi]
+Piatto [6|Tako seaweed]
+Piatto [53|Great Style sashimi]
+2023-03-17 01:30:57.590 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [4|Involtini Ebi - 3 pezzi]
+Piatto [6|Tako seaweed]
+Piatto [53|Great Style sashimi]
+Piatto [54|Tris di Tartare]
+2023-03-17 01:31:04.388 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [4|Involtini Ebi - 3 pezzi]
+Piatto [6|Tako seaweed]
+Piatto [53|Great Style sashimi]
+Piatto [54|Tris di Tartare]
+Piatto [35|Hosomaki Salmone]
+2023-03-17 01:31:11.775 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Tako seaweed]
+Piatto [53|Great Style sashimi]
+Piatto [54|Tris di Tartare]
+Piatto [35|Hosomaki Salmone]
+2023-03-17 01:31:13.258 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Tako seaweed]
+Piatto [53|Great Style sashimi]
+Piatto [35|Hosomaki Salmone]
+2023-03-17 01:31:14.544 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Tako seaweed]
+Piatto [53|Great Style sashimi]
+2023-03-17 01:31:16.419 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Tako seaweed]
+2023-03-17 01:31:18.951 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 01:31:41.805 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 01:31:42.186 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 01:31:42.240 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 01:31:44.099 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-17 01:31:44.197 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 01:31:49.264 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+2023-03-17 01:32:03.043 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [20|Gunkan Tuna]
+2023-03-17 01:32:47.300 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 01:32:47.660 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 01:32:47.716 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 01:32:48.847 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-17 01:32:48.929 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 01:32:50.860 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+2023-03-17 01:32:52.487 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [18|Onigiri Ebi]
+2023-03-17 01:32:53.722 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [18|Onigiri Ebi]
+Piatto [36|Hosomaki Tonno]
+2023-03-17 01:32:55.137 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [18|Onigiri Ebi]
+Piatto [36|Hosomaki Tonno]
+Piatto [53|Great Style sashimi]
+2023-03-17 01:32:57.265 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [18|Onigiri Ebi]
+Piatto [36|Hosomaki Tonno]
+Piatto [53|Great Style sashimi]
+Piatto [51|Ebi Kataifi - 2 pezzi]
+2023-03-17 01:32:58.307 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [18|Onigiri Ebi]
+Piatto [36|Hosomaki Tonno]
+Piatto [53|Great Style sashimi]
+Piatto [51|Ebi Kataifi - 2 pezzi]
+Piatto [55|Chokai Roll - 8 pezzi]
+2023-03-17 01:32:59.288 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [18|Onigiri Ebi]
+Piatto [36|Hosomaki Tonno]
+Piatto [53|Great Style sashimi]
+Piatto [51|Ebi Kataifi - 2 pezzi]
+Piatto [55|Chokai Roll - 8 pezzi]
+Piatto [54|Tris di Tartare]
+2023-03-17 01:33:04.275 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [18|Onigiri Ebi]
+Piatto [36|Hosomaki Tonno]
+Piatto [53|Great Style sashimi]
+Piatto [51|Ebi Kataifi - 2 pezzi]
+Piatto [55|Chokai Roll - 8 pezzi]
+Piatto [54|Tris di Tartare]
+Piatto [52|Carpaccio New Style]
+2023-03-17 01:33:07.573 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [18|Onigiri Ebi]
+Piatto [36|Hosomaki Tonno]
+Piatto [53|Great Style sashimi]
+Piatto [51|Ebi Kataifi - 2 pezzi]
+Piatto [55|Chokai Roll - 8 pezzi]
+Piatto [54|Tris di Tartare]
+2023-03-17 01:33:08.845 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [18|Onigiri Ebi]
+Piatto [36|Hosomaki Tonno]
+Piatto [53|Great Style sashimi]
+Piatto [51|Ebi Kataifi - 2 pezzi]
+Piatto [55|Chokai Roll - 8 pezzi]
+2023-03-17 01:33:09.585 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [18|Onigiri Ebi]
+Piatto [36|Hosomaki Tonno]
+Piatto [53|Great Style sashimi]
+Piatto [51|Ebi Kataifi - 2 pezzi]
+2023-03-17 01:33:10.332 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [18|Onigiri Ebi]
+Piatto [36|Hosomaki Tonno]
+Piatto [53|Great Style sashimi]
+2023-03-17 01:33:12.411 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [18|Onigiri Ebi]
+Piatto [36|Hosomaki Tonno]
+2023-03-17 01:33:15.741 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [18|Onigiri Ebi]
+2023-03-17 01:33:16.709 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+2023-03-17 01:33:18.162 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 01:33:48.207 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 01:33:57.264 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 01:34:07.812 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 01:34:07.943 [Thread-5] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 01:34:07.968 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 01:34:09.030 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-17 01:34:09.170 [Thread-6] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 01:34:12.119 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [9|Gyoza di gamberi alla griglia - 3 pezzi]
+2023-03-17 01:34:15.024 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [9|Gyoza di gamberi alla griglia - 3 pezzi]
+Piatto [10|Tartare sake avocado]
+2023-03-17 01:34:27.802 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [9|Gyoza di gamberi alla griglia - 3 pezzi]
+Piatto [10|Tartare sake avocado]
+Piatto [22|Chirashi Sake]
+2023-03-17 01:34:38.276 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [9|Gyoza di gamberi alla griglia - 3 pezzi]
+Piatto [10|Tartare sake avocado]
+Piatto [22|Chirashi Sake]
+Piatto [39|Hosomaki Fritto con Fragole]
+2023-03-17 01:35:15.247 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [9|Gyoza di gamberi alla griglia - 3 pezzi]
+Piatto [10|Tartare sake avocado]
+Piatto [22|Chirashi Sake]
+2023-03-17 01:35:18.804 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [9|Gyoza di gamberi alla griglia - 3 pezzi]
+Piatto [10|Tartare sake avocado]
+2023-03-17 01:35:22.863 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [9|Gyoza di gamberi alla griglia - 3 pezzi]
+2023-03-17 01:35:23.990 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 01:35:55.427 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 01:35:55.801 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 01:35:55.854 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 01:35:57.271 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-17 01:35:57.369 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 01:36:00.124 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [12|Sake Mandorle]
+2023-03-17 01:36:03.141 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [12|Sake Mandorle]
+Piatto [11|Tartare sake]
+2023-03-17 01:36:08.330 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [12|Sake Mandorle]
+Piatto [11|Tartare sake]
+Piatto [10|Tartare sake avocado]
+2023-03-17 01:36:12.723 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [12|Sake Mandorle]
+Piatto [10|Tartare sake avocado]
+2023-03-17 01:36:31.849 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [12|Sake Mandorle]
+2023-03-17 01:36:33.653 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - Carrello:
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 15:01:40.083 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 15:01:40.847 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 15:01:40.899 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 15:02:00.383 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-17 15:02:00.562 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 15:02:07.672 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [7.5]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+2023-03-17 15:02:12.131 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [10.8]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+2023-03-17 15:02:23.103 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [20.0]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [23|Chirashi Tuna]
+2023-03-17 15:02:37.777 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [25.95]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [23|Chirashi Tuna]
+Piatto [36|Hosomaki Tonno]
+2023-03-17 15:02:43.433 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [33.7]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [23|Chirashi Tuna]
+Piatto [36|Hosomaki Tonno]
+Piatto [43|Uramaki California - 8 pezzi]
+2023-03-17 15:02:51.627 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [53.9]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [23|Chirashi Tuna]
+Piatto [36|Hosomaki Tonno]
+Piatto [43|Uramaki California - 8 pezzi]
+Piatto [24|Sushi Misto - 20 pezzi]
+2023-03-17 15:03:46.334 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [40.050003]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [23|Chirashi Tuna]
+Piatto [36|Hosomaki Tonno]
+Piatto [43|Uramaki California - 8 pezzi]
+2023-03-17 15:14:58.261 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 15:14:58.609 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 15:14:58.656 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 15:15:00.541 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-17 15:15:00.636 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 15:25:02.532 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 15:25:02.910 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 15:25:02.983 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 15:25:04.253 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-17 15:25:04.374 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 15:25:06.234 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [5.5]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [4|Involtini Ebi - 3 pezzi]
+2023-03-17 15:25:06.965 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [13.0]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [4|Involtini Ebi - 3 pezzi]
+Piatto [5|Misto Mare]
+2023-03-17 15:25:07.611 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [19.6]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [4|Involtini Ebi - 3 pezzi]
+Piatto [5|Misto Mare]
+Piatto [6|Tako seaweed]
+2023-03-17 15:25:33.016 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [39.8]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [4|Involtini Ebi - 3 pezzi]
+Piatto [5|Misto Mare]
+Piatto [6|Tako seaweed]
+Piatto [24|Sushi Misto - 20 pezzi]
+2023-03-17 15:25:36.519 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [48.1]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [4|Involtini Ebi - 3 pezzi]
+Piatto [5|Misto Mare]
+Piatto [6|Tako seaweed]
+Piatto [24|Sushi Misto - 20 pezzi]
+Piatto [29|Carpaccio Pesce Bianco]
+2023-03-17 15:25:38.792 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [39.8]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [4|Involtini Ebi - 3 pezzi]
+Piatto [5|Misto Mare]
+Piatto [24|Sushi Misto - 20 pezzi]
+Piatto [29|Carpaccio Pesce Bianco]
+2023-03-17 15:25:39.905 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [31.5]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [4|Involtini Ebi - 3 pezzi]
+Piatto [24|Sushi Misto - 20 pezzi]
+Piatto [29|Carpaccio Pesce Bianco]
+2023-03-17 15:25:41.327 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [23.2]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [4|Involtini Ebi - 3 pezzi]
+Piatto [24|Sushi Misto - 20 pezzi]
+2023-03-17 15:25:42.123 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [14.9]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [4|Involtini Ebi - 3 pezzi]
+2023-03-17 15:25:43.901 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [6.6]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 15:26:10.615 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 15:26:10.980 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 15:26:11.039 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 15:26:12.249 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-17 15:26:12.343 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 15:26:15.229 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [9.9]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [30|Tataki Salmone]
+2023-03-17 15:26:16.133 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [18.2]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [30|Tataki Salmone]
+Piatto [29|Carpaccio Pesce Bianco]
+2023-03-17 15:26:16.993 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [25.6]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [30|Tataki Salmone]
+Piatto [29|Carpaccio Pesce Bianco]
+Piatto [28|Carpaccio Tuna]
+2023-03-17 15:26:17.931 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [33.3]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [30|Tataki Salmone]
+Piatto [29|Carpaccio Pesce Bianco]
+Piatto [28|Carpaccio Tuna]
+Piatto [27|Carpaccio Sake]
+2023-03-17 15:26:18.776 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [88.5]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [30|Tataki Salmone]
+Piatto [29|Carpaccio Pesce Bianco]
+Piatto [28|Carpaccio Tuna]
+Piatto [27|Carpaccio Sake]
+Piatto [26|Sushi Party Mix - 64 pezzi]
+2023-03-17 15:26:52.458 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [33.3]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [30|Tataki Salmone]
+Piatto [29|Carpaccio Pesce Bianco]
+Piatto [28|Carpaccio Tuna]
+Piatto [27|Carpaccio Sake]
+2023-03-17 15:27:09.704 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [-21.9]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [30|Tataki Salmone]
+Piatto [28|Carpaccio Tuna]
+Piatto [27|Carpaccio Sake]
+2023-03-17 15:29:44.871 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 15:29:45.221 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 15:29:45.270 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 15:29:46.248 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelto pranzo
+2023-03-17 15:29:46.339 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 15:29:48.476 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [6.6]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Tako seaweed]
+2023-03-17 15:29:49.281 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [13.9]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Tako seaweed]
+Piatto [10|Tartare sake avocado]
+2023-03-17 15:29:50.594 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [21.2]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Tako seaweed]
+Piatto [10|Tartare sake avocado]
+Piatto [10|Tartare sake avocado]
+2023-03-17 15:29:53.776 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [13.9]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Tako seaweed]
+Piatto [10|Tartare sake avocado]
+2023-03-17 15:29:56.706 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [21.65]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Tako seaweed]
+Piatto [10|Tartare sake avocado]
+Piatto [47|Uramaki Miura - 8 pezzi]
+2023-03-17 15:30:01.020 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [29.4]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Tako seaweed]
+Piatto [10|Tartare sake avocado]
+Piatto [47|Uramaki Miura - 8 pezzi]
+Piatto [48|Uramaki Lover - 8 pezzi]
+2023-03-17 15:30:05.030 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [21.65]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Tako seaweed]
+Piatto [10|Tartare sake avocado]
+Piatto [47|Uramaki Miura - 8 pezzi]
+2023-03-17 15:30:06.533 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [13.9]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Tako seaweed]
+Piatto [10|Tartare sake avocado]
+2023-03-17 15:30:08.812 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [6.6]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [6|Tako seaweed]
+2023-03-17 15:30:10.038 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [0.0]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 15:57:17.551 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 15:57:17.913 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 15:57:17.971 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 15:57:19.138 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-17 15:57:19.213 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 15:57:20.781 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [3.3 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+2023-03-17 15:57:21.605 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [9.6 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [11|Tartare sake]
+2023-03-17 15:57:22.570 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [16.2 €] [1 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [11|Tartare sake]
+Piatto [6|Tako seaweed]
+2023-03-17 15:57:28.294 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 15:57:39.123 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to EN
+2023-03-17 16:06:14.641 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 16:06:15.010 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 16:06:15.067 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 16:06:16.140 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-17 16:06:16.212 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 16:06:29.953 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [7.3 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [10|Tartare sake avocado]
+2023-03-17 16:06:31.954 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [13.9 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [10|Tartare sake avocado]
+Piatto [6|Tako seaweed]
+2023-03-17 16:06:34.013 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [17.2 €] [1 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [10|Tartare sake avocado]
+Piatto [6|Tako seaweed]
+Piatto [9|Gyoza di gamberi alla griglia - 3 pezzi]
+2023-03-17 16:07:49.616 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 16:07:49.975 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 16:07:50.024 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 16:07:51.200 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelto pranzo
+2023-03-17 16:07:51.289 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 16:07:56.150 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [7.5 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+2023-03-17 16:07:57.836 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [10.8 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+2023-03-17 16:07:58.940 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [18.5 €] [1 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [12|Sake Mandorle]
+2023-03-17 16:08:00.937 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [28.4 €] [1 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [12|Sake Mandorle]
+Piatto [30|Tataki Salmone]
+2023-03-17 16:08:06.388 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [83.6 €] [5 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [12|Sake Mandorle]
+Piatto [30|Tataki Salmone]
+Piatto [26|Sushi Party Mix - 64 pezzi]
+2023-03-17 16:08:08.204 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [116.8 €] [7 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [12|Sake Mandorle]
+Piatto [30|Tataki Salmone]
+Piatto [26|Sushi Party Mix - 64 pezzi]
+Piatto [25|La Barca - 33 pezzi]
+2023-03-17 16:08:09.146 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [137.0 €] [9 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [12|Sake Mandorle]
+Piatto [30|Tataki Salmone]
+Piatto [26|Sushi Party Mix - 64 pezzi]
+Piatto [25|La Barca - 33 pezzi]
+Piatto [24|Sushi Misto - 20 pezzi]
+2023-03-17 16:10:54.733 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [127.1 €] [-8 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [12|Sake Mandorle]
+Piatto [26|Sushi Party Mix - 64 pezzi]
+Piatto [25|La Barca - 33 pezzi]
+Piatto [24|Sushi Misto - 20 pezzi]
+2023-03-17 16:10:59.732 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [71.9 €] [-4 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [12|Sake Mandorle]
+Piatto [25|La Barca - 33 pezzi]
+Piatto [24|Sushi Misto - 20 pezzi]
+2023-03-17 16:11:01.478 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [51.7 €] [-3 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [12|Sake Mandorle]
+Piatto [25|La Barca - 33 pezzi]
+2023-03-17 16:11:02.893 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [44.0 €] [-2 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [25|La Barca - 33 pezzi]
+2023-03-17 16:11:03.959 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [10.8 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+2023-03-17 16:11:06.884 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [18.55 €] [1 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [48|Uramaki Lover - 8 pezzi]
+2023-03-17 16:11:08.168 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [26.3 €] [1 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [48|Uramaki Lover - 8 pezzi]
+Piatto [45|Uramaki Ebiten - 8 pezzi]
+2023-03-17 16:11:10.236 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [34.05 €] [2 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [48|Uramaki Lover - 8 pezzi]
+Piatto [45|Uramaki Ebiten - 8 pezzi]
+Piatto [41|Uramaki California - 8 pezzi]
+2023-03-17 16:11:40.679 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 16:11:41.788 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelto pranzo
+2023-03-17 16:11:41.835 [Thread-5] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 16:25:22.567 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 16:25:22.935 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 16:25:22.997 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 16:25:24.910 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-17 16:25:24.985 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 16:25:41.259 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [3.3 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [7|Gyoza al vapore - 3 pezzi]
+2023-03-17 16:28:41.556 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 16:28:41.933 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 16:28:41.986 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 16:28:44.624 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelto pranzo
+2023-03-17 16:28:44.719 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 16:29:17.317 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [7.7 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [27|Carpaccio Sake]
+2023-03-17 16:29:19.526 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [62.9 €] [4 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [27|Carpaccio Sake]
+Piatto [26|Sushi Party Mix - 64 pezzi]
+2023-03-17 16:29:54.190 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 16:29:54.577 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 16:29:54.628 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 16:29:55.956 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelto pranzo
+2023-03-17 16:29:56.041 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 16:30:07.471 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [5.5 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [4|Involtini Ebi - 3 pezzi]
+2023-03-17 16:31:00.295 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 16:31:00.674 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 16:31:00.731 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 16:31:03.902 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelto pranzo
+2023-03-17 16:31:04.005 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 16:33:27.765 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [55.2 €] [3 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [26|Sushi Party Mix - 64 pezzi]
+2023-03-17 16:33:29.532 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [88.4 €] [5 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [26|Sushi Party Mix - 64 pezzi]
+Piatto [25|La Barca - 33 pezzi]
+2023-03-17 16:33:30.536 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [108.6 €] [7 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [26|Sushi Party Mix - 64 pezzi]
+Piatto [25|La Barca - 33 pezzi]
+Piatto [24|Sushi Misto - 20 pezzi]
+2023-03-17 16:33:31.633 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [117.8 €] [7 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [26|Sushi Party Mix - 64 pezzi]
+Piatto [25|La Barca - 33 pezzi]
+Piatto [24|Sushi Misto - 20 pezzi]
+Piatto [23|Chirashi Tuna]
+2023-03-17 16:57:00.147 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 16:57:00.240 [Thread-3] ERROR it.unipi.mainproject.sushideliveryservice.LoginController - Connection refused: connect
+2023-03-17 17:01:19.058 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 17:01:19.800 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 17:01:19.837 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 17:01:24.693 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelto pranzo
+2023-03-17 17:01:24.854 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 17:01:44.170 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [5.5 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [3|Involtini Primavera - 3 pezzi]
+2023-03-17 17:01:47.358 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [14.7 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [3|Involtini Primavera - 3 pezzi]
+Piatto [22|Chirashi Sake]
+2023-03-17 17:01:48.446 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [34.9 €] [2 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [3|Involtini Primavera - 3 pezzi]
+Piatto [22|Chirashi Sake]
+Piatto [24|Sushi Misto - 20 pezzi]
+2023-03-17 17:01:49.958 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [42.65 €] [2 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [3|Involtini Primavera - 3 pezzi]
+Piatto [22|Chirashi Sake]
+Piatto [24|Sushi Misto - 20 pezzi]
+Piatto [43|Uramaki California - 8 pezzi]
+2023-03-17 17:01:50.725 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [50.4 €] [3 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [3|Involtini Primavera - 3 pezzi]
+Piatto [22|Chirashi Sake]
+Piatto [24|Sushi Misto - 20 pezzi]
+Piatto [43|Uramaki California - 8 pezzi]
+Piatto [45|Uramaki Ebiten - 8 pezzi]
+2023-03-17 17:02:03.188 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 17:02:13.716 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 23:40:08.801 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-17 23:40:09.532 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-17 23:40:09.571 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 23:40:17.463 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelto pranzo
+2023-03-17 23:40:17.583 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
+2023-03-17 23:42:03.180 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [3.85 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [1|Edamame]
+2023-03-17 23:42:11.416 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [0.0 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+2023-03-17 23:42:20.529 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [7.5 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+2023-03-17 23:42:27.834 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [10.8 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+2023-03-17 23:42:29.858 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [14.1 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+2023-03-17 23:42:41.391 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [17.4 €] [1 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+2023-03-17 23:42:46.036 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [14.1 €] [0 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+2023-03-17 23:42:59.902 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [21.4 €] [1 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [10|Tartare sake avocado]
+2023-03-17 23:43:13.939 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [26.0 €] [1 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [10|Tartare sake avocado]
+Piatto [19|Gunkan Sake]
+2023-03-17 23:43:25.165 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [46.2 €] [3 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [10|Tartare sake avocado]
+Piatto [19|Gunkan Sake]
+Piatto [24|Sushi Misto - 20 pezzi]
+2023-03-17 23:43:28.293 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [79.4 €] [5 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [10|Tartare sake avocado]
+Piatto [19|Gunkan Sake]
+Piatto [24|Sushi Misto - 20 pezzi]
+Piatto [25|La Barca - 33 pezzi]
+2023-03-17 23:43:48.313 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [88.3 €] [5 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [10|Tartare sake avocado]
+Piatto [19|Gunkan Sake]
+Piatto [24|Sushi Misto - 20 pezzi]
+Piatto [25|La Barca - 33 pezzi]
+Piatto [32|Sashimi Salmone]
+2023-03-17 23:43:50.684 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [98.2 €] [6 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [10|Tartare sake avocado]
+Piatto [19|Gunkan Sake]
+Piatto [24|Sushi Misto - 20 pezzi]
+Piatto [25|La Barca - 33 pezzi]
+Piatto [32|Sashimi Salmone]
+Piatto [30|Tataki Salmone]
+2023-03-17 23:44:09.245 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [105.95 €] [7 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [10|Tartare sake avocado]
+Piatto [19|Gunkan Sake]
+Piatto [24|Sushi Misto - 20 pezzi]
+Piatto [25|La Barca - 33 pezzi]
+Piatto [32|Sashimi Salmone]
+Piatto [30|Tataki Salmone]
+Piatto [41|Uramaki California - 8 pezzi]
+2023-03-17 23:44:22.500 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [113.7 €] [7 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [10|Tartare sake avocado]
+Piatto [19|Gunkan Sake]
+Piatto [24|Sushi Misto - 20 pezzi]
+Piatto [25|La Barca - 33 pezzi]
+Piatto [32|Sashimi Salmone]
+Piatto [30|Tataki Salmone]
+Piatto [41|Uramaki California - 8 pezzi]
+Piatto [45|Uramaki Ebiten - 8 pezzi]
+2023-03-17 23:44:32.769 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [121.45 €] [8 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [10|Tartare sake avocado]
+Piatto [19|Gunkan Sake]
+Piatto [24|Sushi Misto - 20 pezzi]
+Piatto [25|La Barca - 33 pezzi]
+Piatto [32|Sashimi Salmone]
+Piatto [30|Tataki Salmone]
+Piatto [41|Uramaki California - 8 pezzi]
+Piatto [45|Uramaki Ebiten - 8 pezzi]
+Piatto [48|Uramaki Lover - 8 pezzi]
+2023-03-17 23:44:34.653 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [129.2 €] [8 pts]
+Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
+Piatto [5|Misto Mare]
+Piatto [7|Gyoza al vapore - 3 pezzi]
+Piatto [8|Gyoza alla piastra - 3 pezzi]
+Piatto [10|Tartare sake avocado]
+Piatto [19|Gunkan Sake]
+Piatto [24|Sushi Misto - 20 pezzi]
+Piatto [25|La Barca - 33 pezzi]
+Piatto [32|Sashimi Salmone]
+Piatto [30|Tataki Salmone]
+Piatto [41|Uramaki California - 8 pezzi]
+Piatto [45|Uramaki Ebiten - 8 pezzi]
+Piatto [48|Uramaki Lover - 8 pezzi]
+Piatto [49|Uramaki Tropicana - 8 pezzi]

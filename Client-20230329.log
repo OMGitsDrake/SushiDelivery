@@ -1,0 +1,106 @@
+2023-03-29 00:46:08.802 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to IT
+2023-03-29 00:46:12.108 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to EN
+2023-03-29 00:46:21.307 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-29 00:46:29.464 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-29 00:46:29.717 [Thread-4] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-29 00:46:29.759 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: test mail: test@testmail.com punti: 1
+2023-03-29 00:46:38.700 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-29 00:46:38.852 [Thread-5] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "(Menu) Dati recuperati con successo!"
+2023-03-29 00:46:38.872 [Thread-6] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "(Preferiti) Dati recuperati con successo!"
+2023-03-29 00:46:43.520 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [55.2 €] [3 pts]
+Username: test mail: test@testmail.com punti: 1
+Piatto [26|Sushi Party Mix - 64 pezzi]
+2023-03-29 00:47:00.407 [Thread-7] INFO  it.unipi.mainproject.sushideliveryservice.OrderConfirmationController - "C'è disponibilità con gli orari!" - 20:30
+2023-03-29 00:47:36.859 [Thread-8] INFO  it.unipi.mainproject.sushideliveryservice.OrderConfirmationController - Ordine registrato, punti acquisiti: 2
+2023-03-29 10:30:53.623 [main] INFO  it.unipi.mainproject.sushideliveryservice.DBConnectionTest - OK
+2023-03-29 10:30:53.641 [main] INFO  it.unipi.mainproject.sushideliveryservice.LoginControllerTest - OK
+2023-03-29 10:41:54.187 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to IT
+2023-03-29 10:41:59.522 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-29 10:42:00.675 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-29 10:42:00.748 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: test mail: test@testmail.com punti: 3
+2023-03-29 10:42:03.357 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-29 10:42:03.490 [Thread-5] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "(Preferiti) Dati recuperati con successo!"
+2023-03-29 10:42:03.549 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "(Menu) Dati recuperati con successo!"
+2023-03-29 10:42:08.153 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [55.2 €] [3 pts]
+Username: test mail: test@testmail.com punti: 3
+Piatto [26|Sushi Party Mix - 64 pezzi]
+2023-03-29 10:42:15.051 [Thread-6] INFO  it.unipi.mainproject.sushideliveryservice.OrderConfirmationController - "C'è disponibilità con gli orari!" - 20:00
+2023-03-29 10:43:23.067 [Thread-7] INFO  it.unipi.mainproject.sushideliveryservice.OrderConfirmationController - Ordine registrato, punti acquisiti: 3
+2023-03-29 10:52:43.489 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to IT
+2023-03-29 10:52:52.141 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-29 10:52:53.168 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-29 10:52:53.235 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: test mail: test@testmail.com punti: 6
+2023-03-29 10:52:56.491 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to IT
+2023-03-29 10:52:58.068 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to EN
+2023-03-29 10:53:02.620 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-29 10:53:02.882 [Thread-4] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-29 10:53:02.928 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: test mail: test@testmail.com punti: 6
+2023-03-29 10:53:04.922 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-29 10:53:05.072 [Thread-6] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "(Preferiti) Dati recuperati con successo!"
+2023-03-29 10:53:05.118 [Thread-5] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "(Menu) Dati recuperati con successo!"
+2023-03-29 10:53:12.316 [Thread-7] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati inseriti correttamente!"
+2023-03-29 10:53:15.491 [Thread-8] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati inseriti correttamente!"
+2023-03-29 10:53:16.537 [Thread-9] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati inseriti correttamente!"
+2023-03-29 10:53:17.448 [Thread-10] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati inseriti correttamente!"
+2023-03-29 10:53:18.411 [Thread-11] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati inseriti correttamente!"
+2023-03-29 10:53:20.765 [Thread-12] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati inseriti correttamente!"
+2023-03-29 10:53:36.271 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [4.6 €] [0 pts]
+Username: test mail: test@testmail.com punti: 6
+Piatto [20|Gunkan Tuna]
+2023-03-29 10:53:39.259 [Thread-16] INFO  it.unipi.mainproject.sushideliveryservice.OrderConfirmationController - "C'è disponibilità con gli orari!" - 19:45
+2023-03-29 10:54:08.852 [Thread-17] INFO  it.unipi.mainproject.sushideliveryservice.OrderConfirmationController - Ordine registrato, punti acquisiti: -6
+2023-03-29 11:01:37.978 [main] INFO  it.unipi.mainproject.sushideliveryservice.DBConnectionTest - OK
+2023-03-29 11:01:37.986 [main] INFO  it.unipi.mainproject.sushideliveryservice.ServerConnectionTest - OK
+2023-03-29 11:03:54.502 [main] INFO  it.unipi.mainproject.sushideliveryservice.DBConnectionTest - OK
+2023-03-29 11:03:54.515 [main] INFO  it.unipi.mainproject.sushideliveryservice.ServerConnectionTest - OK
+2023-03-29 11:26:27.150 [main] INFO  it.unipi.mainproject.sushideliveryservice.DBConnectionTest - OK
+2023-03-29 11:26:27.458 [main] INFO  it.unipi.mainproject.sushideliveryservice.ServerConnectionTest - OK
+2023-03-29 11:26:27.529 [main] ERROR it.unipi.mainproject.sushideliveryservice.ServerConnectionTest - Server returned HTTP response code: 405 for URL: http://localhost:8080/test/server_con
+2023-03-29 11:27:53.896 [main] INFO  it.unipi.mainproject.sushideliveryservice.DBConnectionTest - OK
+2023-03-29 11:27:53.959 [main] ERROR it.unipi.mainproject.sushideliveryservice.ServerConnectionTest - Server returned HTTP response code: 405 for URL: http://localhost:8080/test/server_con
+2023-03-29 11:27:53.975 [main] INFO  it.unipi.mainproject.sushideliveryservice.ServerConnectionTest - OK
+2023-03-29 11:31:06.543 [main] INFO  it.unipi.mainproject.sushideliveryservice.DBConnectionTest - OK
+2023-03-29 11:31:06.788 [main] INFO  it.unipi.mainproject.sushideliveryservice.ServerConnectionTest - OK
+2023-03-29 11:31:06.794 [main] INFO  it.unipi.mainproject.sushideliveryservice.ServerConnectionTest - OK
+2023-03-29 11:31:33.108 [main] INFO  it.unipi.mainproject.sushideliveryservice.DBConnectionTest - OK
+2023-03-29 11:31:33.119 [main] ERROR it.unipi.mainproject.sushideliveryservice.ServerConnectionTest - Connection refused: connect
+2023-03-29 11:31:33.127 [main] ERROR it.unipi.mainproject.sushideliveryservice.ServerConnectionTest - Connection refused: connect
+2023-03-29 11:52:56.267 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to IT
+2023-03-29 11:53:06.432 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to EN
+2023-03-29 11:53:10.912 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-29 11:53:11.277 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-29 11:53:11.350 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: test mail: test@testmail.com punti: 0
+2023-03-29 11:53:12.361 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-29 11:53:12.480 [Thread-5] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "(Preferiti) Dati recuperati con successo!"
+2023-03-29 11:53:12.490 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "(Menu) Dati recuperati con successo!"
+2023-03-29 11:53:16.880 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [5.5 €] [0 pts]
+Username: test mail: test@testmail.com punti: 0
+Piatto [4|Involtini Ebi - 3 pezzi]
+2023-03-29 11:53:22.326 [Thread-7] INFO  it.unipi.mainproject.sushideliveryservice.OrderConfirmationController - "C'è disponibilità con gli orari!" - 20:30
+2023-03-29 11:53:51.882 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.OrderConfirmationController - Valore non valido inserito
+2023-03-29 11:53:58.001 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.OrderConfirmationController - Valore non valido inserito
+2023-03-29 11:54:04.944 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.OrderConfirmationController - Valore non valido inserito
+2023-03-29 11:54:09.621 [Thread-8] INFO  it.unipi.mainproject.sushideliveryservice.OrderConfirmationController - Ordine registrato, punti acquisiti: 0
+2023-03-29 11:55:46.335 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to IT
+2023-03-29 11:55:51.876 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-29 11:55:52.238 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-29 11:55:52.294 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: test mail: test@testmail.com punti: 0
+2023-03-29 11:55:53.526 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-29 11:55:53.633 [Thread-5] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "(Preferiti) Dati recuperati con successo!"
+2023-03-29 11:55:53.638 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "(Menu) Dati recuperati con successo!"
+2023-03-29 11:55:57.757 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [7.5 €] [0 pts]
+Username: test mail: test@testmail.com punti: 0
+Piatto [5|Misto Mare]
+2023-03-29 11:56:06.349 [Thread-8] INFO  it.unipi.mainproject.sushideliveryservice.OrderConfirmationController - "C'è disponibilità con gli orari!" - 20:30
+2023-03-29 11:56:41.130 [Thread-10] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "(Preferiti) Dati recuperati con successo!"
+2023-03-29 11:56:41.144 [Thread-9] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "(Menu) Dati recuperati con successo!"
+2023-03-29 11:56:43.673 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [6.6 €] [0 pts]
+Username: test mail: test@testmail.com punti: 0
+Piatto [6|Tako seaweed]
+2023-03-29 11:56:46.151 [Thread-11] INFO  it.unipi.mainproject.sushideliveryservice.OrderConfirmationController - "C'è disponibilità con gli orari!" - 20:15

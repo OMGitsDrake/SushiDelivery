@@ -1,0 +1,56 @@
+<lang>
+    <!-- LOGIN -->
+    <LOGIN>Accedi</LOGIN>
+    <REGISTER>Registrati</REGISTER>
+    <BACK>Indietro</BACK>
+    <LANG>Lingua</LANG>
+    <IT>Italiano</IT>
+    <EN>Inglese</EN>
+    <SETTINGS>Configurazione</SETTINGS>
+    <INSTALL>Installa Database</INSTALL>
+    <AUTHERR>Credenziali errate</AUTHERR>
+    <!-- MENU -->
+    <PRANZO>Pranzo</PRANZO>
+    <CENA>Cena</CENA>
+    <WELCOME>Ti diamo il Benvenuto </WELCOME>
+    <PUNTI>Punti Fedeltà </PUNTI>
+    <!-- REGISTER -->
+    <RE_TITLE>Registrati</RE_TITLE>    
+    <BDATE>Data di Nascita</BDATE>
+    <RE_PASSWORD>Ripeti Password</RE_PASSWORD>
+    <!-- TABLE -->
+    <STARRED>Preferiti</STARRED>
+    <CODE>Codice</CODE>
+    <NAME>Nome</NAME>
+    <INGREDIENTS>Ingredienti</INGREDIENTS>
+    <PRICE>Prezzo</PRICE>
+    <ORDER>Ordine</ORDER>
+    <CART_REMOVE>Rimuovi dal Carrello</CART_REMOVE>
+    <CART_ADD>Aggiungi al Carrello</CART_ADD>
+    <STARRED_REMOVE>Rimuovi dai Preferiti</STARRED_REMOVE>
+    <MAKE_STARRED>Aggiungi ai Preferiti</MAKE_STARRED>
+    <MAX_STARRED>Il numero di piatti preferiti è già al massimo!</MAX_STARRED>
+    <!-- OREDR -->
+    <CART_TITLE>Carrello</CART_TITLE>
+    <HOUR>Scegli un orario</HOUR>
+    <ADDR>Indirizzo di Spedizione</ADDR>
+    <PHONE>n° di telefono</PHONE>
+    <SUBT>Subtotale</SUBT>
+    <CARD>Carta di Credito</CARD>
+    <CASH>Alla consegna</CASH>
+    <PAY_QUEST>Come desideri pagare?</PAY_QUEST>
+    <CNUMBER>Numero della carta</CNUMBER>
+    <USR_PTS>Punti disponibili</USR_PTS>
+    <INS_PTS>Inserisci punti da usare</INS_PTS>
+    <CNF_ORD>Conferma ordine</CNF_ORD>
+    <TIME_OK>Orario disponibile</TIME_OK>
+    <TIME_BAD>Orario non disponibile</TIME_BAD>
+    <TIME_NO>Devi selezionare un orario</TIME_NO>
+    <FIELDS_NO>Campi obbligatori</FIELDS_NO>
+    <DISCOUNT>Sconto: </DISCOUNT>
+    <TOTAL>Totale: </TOTAL>
+    <!-- CONCLUSION -->
+    <THANKS>Grazie </THANKS>
+    <EXIT>Esci</EXIT>
+    <CNC_MSG>Il tuo ordine è stato registrato e sarà spedito il prima possibile.</CNC_MSG>
+</lang>
