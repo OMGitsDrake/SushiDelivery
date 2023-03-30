@@ -104,3 +104,16 @@ Carrello: [6.6 €] [0 pts]
 Username: test mail: test@testmail.com punti: 0
 Piatto [6|Tako seaweed]
 2023-03-29 11:56:46.151 [Thread-11] INFO  it.unipi.mainproject.sushideliveryservice.OrderConfirmationController - "C'è disponibilità con gli orari!" - 20:15
+2023-03-29 14:34:57.273 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to IT
+2023-03-29 14:35:04.383 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.LoginController - Language swap to EN
+2023-03-29 14:35:05.799 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
+2023-03-29 14:35:06.119 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
+2023-03-29 14:35:06.140 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: test mail: test@testmail.com punti: 0
+2023-03-29 14:35:07.298 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelta cena
+2023-03-29 14:35:07.380 [Thread-5] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "(Preferiti) Dati recuperati con successo!"
+2023-03-29 14:35:07.395 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "(Menu) Dati recuperati con successo!"
+2023-03-29 14:35:09.918 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - 
+Carrello: [9.2 €] [0 pts]
+Username: test mail: test@testmail.com punti: 0
+Piatto [23|Chirashi Tuna]
+2023-03-29 14:35:49.149 [Thread-7] INFO  it.unipi.mainproject.sushideliveryservice.OrderConfirmationController - "C'è disponibilità con gli orari!" - 20:30

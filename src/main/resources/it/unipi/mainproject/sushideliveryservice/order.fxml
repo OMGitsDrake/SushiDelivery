@@ -46,6 +46,6 @@
       <Label fx:id="discountLabel" layoutX="396.0" layoutY="609.0" style="-fx-font-weight: bold; -fx-font-size: 16;" text="Sconto:" textFill="#ff5e00" />
       <Label fx:id="missingTimeLabel" layoutX="399.0" layoutY="19.0" prefHeight="25.0" prefWidth="173.0" style="-fx-font-size: 14; -fx-font-weight: bold;" text="Devi scegliere un orario" textFill="RED" visible="false" />
       <Label fx:id="totalLabel" layoutX="395.0" layoutY="634.0" style="-fx-font-weight: bold; -fx-font-size: 16;" text="Totale:" textFill="#ff5e00" />
-      <Label fx:id="badDiscountValueLabel" layoutX="206.0" layoutY="638.0" style="-fx-font-weight: bold;" text="Valore non valido!" textFill="RED" visible="false" />
+      <Label fx:id="badDiscountValueLabel" layoutX="202.0" layoutY="681.0" style="-fx-font-weight: bold;" text="Valore non valido!" textFill="RED" />
    </children>
 </AnchorPane>

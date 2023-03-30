@@ -38,7 +38,7 @@ public class ConclusionController {
         } else {
             userLabel.setText(App.lang_it.THANKS + user.getUsername() + "!");
             exitBtn.setText(App.lang_it.EXIT);
-            msgLabel.setText(App.lang_en.CNC_MSG);
+            msgLabel.setText(App.lang_it.CNC_MSG);
         }
     }
     
