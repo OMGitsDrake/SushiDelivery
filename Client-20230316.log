@@ -1,5 +1,0 @@
-2023-03-16 19:58:20.372 [JavaFX Application Thread] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - login
-2023-03-16 19:58:20.798 [Thread-3] DEBUG it.unipi.mainproject.sushideliveryservice.LoginController - "Login avvenuto con successo!"
-2023-03-16 19:58:20.875 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Inizializzo la scene con utente: Username: Lorenzo mail: monacilorenzo@hotmail.com punti: 0
-2023-03-16 19:58:22.058 [JavaFX Application Thread] INFO  it.unipi.mainproject.sushideliveryservice.MenuController - Scelto pranzo
-2023-03-16 19:58:22.171 [Thread-4] INFO  it.unipi.mainproject.sushideliveryservice.DishTableController - "Dati recuperati con successo!"
